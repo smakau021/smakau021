@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/sphelele-makau-672a15229](linkedin.com/in/sphelele-makau-672a15229)
 
-- ⚡ Fun fact **I don't know I get things done**
+- ⚡ Fun fact **I don't know how I get things done**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
