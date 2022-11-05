@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sphelele makau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sphelele makau" height="30" width="40" /></a>
-<a href="https://fb.com/sphelele gontse makau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sphelele gontse makau" height="30" width="40" /></a>
-<a href="https://instagram.com/sphelele gontse makau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sphelele gontse makau" height="30" width="40" /></a>
-<a href="https://medium.com/@sphelele gontse makau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sphelele gontse makau" height="30" width="40" /></a>
+<a href="https://fb.com/Sphelele Gontse Makau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sphelele gontse makau" height="30" width="40" /></a>
+<a href="https://instagram.com/sphelelegontse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sphelele gontse makau" height="30" width="40" /></a>
+<a href="https://medium.com/@sphelelegontsemakau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sphelele gontse makau" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
