@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sphelele Makau</h1>
 <h3 align="center">A passionate full stack developer student from South Africa</h3>
-<img align="right" alt="Lifemottoe" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlla1YnUTMaHEHvEfEtH7J2ZTsT9LVxIjIlQ&usqp=CAU](https://assets.hongkiat.com/uploads/programming-jokes/joke-life-motto.jpg)">
+<!-- <img align="right" alt="rainbowCat" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlla1YnUTMaHEHvEfEtH7J2ZTsT9LVxIjIlQ&usqp=CAU](https://assets.hongkiat.com/uploads/programming-jokes/joke-life-motto.jpg)"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smakau021&label=Profile%20views&color=0e75b6&style=flat" alt="smakau021" /> </p>
 
