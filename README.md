@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **.NET Core , Nunit ,RestSharp ,Gauge for .NET**
 
-- 📫 How to reach me **makau.sg@gmail.com**
+- 📫 How to reach me **smakau021@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/sphelele-makau-672a15229](linkedin.com/in/sphelele-makau-672a15229)
 
