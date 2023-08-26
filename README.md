@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smakau021&label=Profile%20views&color=0e75b6&style=flat" alt="smakau021" /> </p>
 
-- 🌱 I’m currently learning **.NET Core , Nunit ,RestSharp ,Gauge for .NET**
+- 🌱 I’m currently learning **.NET Core, Nunit, RestSharp, Selenium, Gauge for .NET**
 
 - 📫 How to reach me **smakau021@gmail.com**
 
