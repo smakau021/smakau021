@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sphelele Makau</h1>
-<h3 align="center">A passionate full stack developer student from South Africa</h3>
+<h3 align="center">A passionate Python developer from South Africa</h3>
 <!-- <img align="right" alt="rainbowCat" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlla1YnUTMaHEHvEfEtH7J2ZTsT9LVxIjIlQ&usqp=CAU](https://assets.hongkiat.com/uploads/programming-jokes/joke-life-motto.jpg)"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smakau021&label=Profile%20views&color=0e75b6&style=flat" alt="smakau021" /> </p>
 
-- 🌱 I’m currently learning **.NET Core, Nunit, RestSharp, Selenium, Gauge for .NET**
+- 🌱 I’m currently learning **.Python, Selenium**
 
-- 📫 How to reach me **smakau021@gmail.com**
+- 📫 How to reach me **missmakau9@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/sphelele-makau-672a15229](linkedin.com/in/sphelele-makau-672a15229)
 
-- ⚡ Fun fact **I don't know how I get things done**
+- ⚡ Fun fact **I find joy in writing clean and concise Python code!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
